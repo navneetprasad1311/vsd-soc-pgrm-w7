@@ -1,1 +1,1 @@
-# *Week 7* VSD RISC-V Tapeout Program ![SPEF Generation](https://img.shields.io/badge/SPEF Generation-Done-darkgreen)
+# *Week 7* VSD RISC-V Tapeout Program ![SPEF Generation](https://img.shields.io/badge/SPEF_Generation-Done-darkgreen)
