@@ -1,2 +1,1 @@
-# vsd-soc-pgrm-w7
-Week 7 of RISC‑V Reference SoC Tapeout Program by VLSI System Design (VSD)
+# *Week 7* VSD RISC-V Tapeout Program ![SPEF Generation](https://img.shields.io/badge/SPEF Generation-Done-darkgreen)
